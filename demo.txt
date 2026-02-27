@@ -1,0 +1,30 @@
+
+
+Python Hangman Demo
+===================
+
+Word: a _ a_ a _
+Guess: a
+Correct!
+
+Word: a n a n a _
+Guess: n
+correct!
+
+
+Word: a n a n a _
+Guess: f
+wrong!
+
+Word: a n a n a _
+Guess: z
+Wrong!
+
+
+Result: YOU LOSE!
+Answer: ananas
+
+[hangman drawing updates...]
+
+Result: YOU LOSE!
+Answer: apple
